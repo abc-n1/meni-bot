@@ -1,6 +1,6 @@
 /*
 
-    Created By RaldzzXyz || t.me/RaldzzXyz 
+    Created By nadu 
 
 */
 console.log('starting...');
