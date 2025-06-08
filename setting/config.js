@@ -2,8 +2,8 @@ const fs = require('fs')
 global.prefa = ['','!','.',',','/','#','^','+'] 
 
 /** info id **/
-global.owner = "6285141370204@s.whatsapp.net"
-global.idch = "120363330344810280@newsletter"
+global.owner = "94741185866@s.whatsapp.net"
+global.idch = "120363398452475846@newsletter"
 
 /** jika bernilai "true" berarti aktif, dan sebaliknya kalau "false" **/
 global.status = false
@@ -13,10 +13,10 @@ global.autoread = false
 
 /** sticker watermark **/
 global.packname = 't.me/RaldzzXyz'
-global.author = 'RaldzzXyz'
+global.author = 'nadu'
 
 /** link group atau link channel WhatsApp **/
-global.linkch = 'https://whatsapp.com/channel/0029VanySqUBPzjYa2929d0U'
+global.linkch = 'https://whatsapp.com/channel/0029Vb69IgXBqbrGn2PrF43M'
 
 /** limit user premium dan bukan premium **/
 global.gcount = {
